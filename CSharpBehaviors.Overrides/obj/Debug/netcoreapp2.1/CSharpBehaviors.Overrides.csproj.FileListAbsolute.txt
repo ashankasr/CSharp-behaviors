@@ -1,0 +1,11 @@
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\bin\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.deps.json
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\bin\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.runtimeconfig.json
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\bin\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.runtimeconfig.dev.json
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\bin\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.dll
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\bin\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.pdb
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\obj\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.csprojAssemblyReference.cache
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\obj\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\obj\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.AssemblyInfoInputs.cache
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\obj\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.AssemblyInfo.cs
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\obj\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.dll
+D:\Projects\CSharpBehaviors\CSharpBehaviors\CSharpBehaviors.Overrides\obj\Debug\netcoreapp2.1\CSharpBehaviors.Overrides.pdb
